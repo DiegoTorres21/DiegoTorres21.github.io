@@ -2035,6 +2035,7 @@ input, select, textarea {
 			font-family: 'Font Awesome 5 Brands';
 		}
 
+
 /* Image */
 
 	.image {
@@ -2201,6 +2202,7 @@ input, select, textarea {
 			display: inline-block;
 			padding: 0 1em 0 0;
 		}
+
 
 			ul.icons li:last-child {
 				padding-right: 0;
